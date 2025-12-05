@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AG one-word domains still available to buy.
 
-This dataset contains 4,381 .AG one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,382 .AG one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.AG one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=description.top) (4,381) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.AG one word domains](
 | abaxial.ag    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.ag   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.ag  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.ag  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.ag  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.ag | available | 56       | 1%     | 10     |           |         |         |
 | abducens.ag   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.ag   | available | 68       | 1%     | 8      |           |         |         |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.AG one word domains](
 | aberdonian.ag | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.ag   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.ag    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.ag  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.ag  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.ag    | available | 106      | 5%     | 7      |           |         |         |
 | abient.ag     | available | 54       | 1%     | 6      |           |         |         |
 | abit.ag       | available | 66       | 16%    | 5      |           |         |         |
