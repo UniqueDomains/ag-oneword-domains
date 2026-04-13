@@ -82,7 +82,7 @@ print(df.head())
 | based.ag      | available | $89        | —             | 82             | 47     | 5      | name.com         |
 | test.ag       | resell    | —          | —             | 72             | 89     | 4      | GoDaddy.com, LLC |
 | any.ag        | premium   | —          | —             | 80             | 98     | 3      | —                |
-| shared.ag     | available | $89        | $141.99       | 70             | 39     | 6      | name.com         |
+| christian.ag  | available | $89        | $141.99       | 88             | 39     | 9      | name.com         |
 | prime.ag      | resell    | —          | —             | 76             | 82     | 5      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
