@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .ag one-word domains from Unique D
 
 **Public extract:** 8,621 rows · **Live catalog:** 8,621 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ag`  
 **Best for:** founders, investors, studios
 
@@ -68,18 +68,18 @@ print(df.head())
 | one.ag        | resell    | $6,783.85  | $89           | 132            | 50     | 3      | Sav.com, LLC     |
 | color.ag      | premium   | $13,120.35 | $141.99       | 116            | 99     | 5      | name.com         |
 | nationwide.ag | available | $89        | $141.99       | 76             | 66     | 10     | name.com         |
-| able.ag       | resell    | $89        | $141.99       | 80             | 33     | 4      | Sav.com, LLC     |
+| able.ag       | resell    | $89        | $141.99       | 80             | 32     | 4      | Sav.com, LLC     |
 | signal.ag     | premium   | $111,343   | —             | 80             | 44     | 6      | name.com         |
 | even.ag       | available | $89        | $141.99       | 98             | 64     | 4      | name.com         |
-| active.ag     | resell    | $89        | $141.99       | 104            | 31     | 6      | Sav.com, LLC     |
+| dice.ag       | resell    | $47,374.08 | —             | 62             | 31     | 4      | Dynadot Inc      |
 | cheap.ag      | premium   | —          | —             | 110            | 99     | 5      | —                |
 | seventeen.ag  | available | $89        | $141.99       | 84             | 62     | 9      | name.com         |
-| dice.ag       | resell    | $47,374.08 | —             | 62             | 31     | 4      | Dynadot Inc      |
+| active.ag     | resell    | $89        | $141.99       | 104            | 30     | 6      | Sav.com, LLC     |
 | brilliant.ag  | premium   | —          | —             | 96             | 99     | 9      | —                |
 | athletics.ag  | available | $89.99     | $79.99        | 69             | 52     | 9      | namesilo         |
 | cipher.ag     | resell    | $89        | $89           | 86             | 29     | 6      | Porkbun LLC      |
 | japan.ag      | premium   | —          | —             | 105            | 98     | 5      | —                |
-| based.ag      | available | $89        | —             | 82             | 45     | 5      | name.com         |
+| based.ag      | available | $89        | —             | 82             | 47     | 5      | name.com         |
 | test.ag       | resell    | —          | —             | 72             | 89     | 4      | GoDaddy.com, LLC |
 | any.ag        | premium   | —          | —             | 80             | 98     | 3      | —                |
 | shared.ag     | available | $89        | $141.99       | 70             | 39     | 6      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
