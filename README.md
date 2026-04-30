@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ag one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,512 domains
 
-**Last updated:** 2026-04-28  
+**Last updated:** 2026-04-30  
 **Canonical page:** `https://unique.domains/domains/tld/ag`  
 **Best for:** founders, investors, studios
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-04-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
