@@ -67,10 +67,10 @@ print(df.head())
 | las.ag          | available | $89       | —             | 48             | 98     | 3      | name.com     |
 | jobs.ag         | resell    | —         | —             | 79             | 42     | 4      | EuroDNS S.A. |
 | Ryan.ag         | premium   | —         | —             | 60             | 44     | 4      | —            |
-| lets.ag         | available | $89       | —             | 77             | 39     | 4      | name.com     |
+| chatbot.ag      | available | $89       | —             | 82             | 40     | 7      | name.com     |
 | partners.ag     | resell    | —         | —             | 61             | 32     | 8      | Dynadot Inc  |
 | Keith.ag        | premium   | —         | —             | 66             | 25     | 5      | —            |
-| chatbot.ag      | available | $89       | —             | 82             | 36     | 7      | name.com     |
+| lets.ag         | available | $89       | —             | 77             | 39     | 4      | name.com     |
 | Allie.ag        | premium   | —         | —             | 72             | 21     | 5      | —            |
 | inspiration.ag  | available | $89       | —             | 88             | 30     | 11     | name.com     |
 | Mikey.ag        | premium   | —         | —             | 70             | 21     | 5      | —            |
