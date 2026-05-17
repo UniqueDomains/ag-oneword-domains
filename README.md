@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ag one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,527 domains · **Median ask:** $142.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/ag`  
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | Allie.ag        | premium   | —         | —             | 72             | 21     | 5      | —            |
 | inspiration.ag  | available | $89       | —             | 88             | 30     | 11     | name.com     |
 | Mikey.ag        | premium   | —         | —             | 70             | 21     | 5      | —            |
-| popup.ag        | available | $89       | —             | 84             | 29     | 6      | name.com     |
+| popup.ag        | available | $89       | —             | 84             | 28     | 6      | name.com     |
 | Henri.ag        | premium   | —         | —             | 66             | 15     | 5      | —            |
 | gems.ag         | available | $89       | —             | 70             | 28     | 4      | name.com     |
 | Ispy.ag         | premium   | —         | —             | 76             | 14     | 5      | —            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
