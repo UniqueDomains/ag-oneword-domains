@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ag one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,527 domains · **Median ask:** $142.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/ag`  
 **Best for:** founders, investors, studios
 
@@ -64,15 +64,15 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| las.ag          | available | $89       | —             | 48             | 98     | 3      | name.com     |
+| las.ag          | available | $89       | —             | 48             | 97     | 3      | name.com     |
 | jobs.ag         | resell    | —         | —             | 79             | 42     | 4      | EuroDNS S.A. |
 | Ryan.ag         | premium   | —         | —             | 60             | 44     | 4      | —            |
 | chatbot.ag      | available | $89       | —             | 82             | 40     | 7      | name.com     |
-| partners.ag     | resell    | —         | —             | 61             | 32     | 8      | Dynadot Inc  |
+| partners.ag     | resell    | —         | —             | 61             | 31     | 8      | Dynadot Inc  |
 | Keith.ag        | premium   | —         | —             | 66             | 25     | 5      | —            |
 | lets.ag         | available | $89       | —             | 77             | 39     | 4      | name.com     |
 | Allie.ag        | premium   | —         | —             | 72             | 21     | 5      | —            |
-| inspiration.ag  | available | $89       | —             | 88             | 30     | 11     | name.com     |
+| gods.ag         | available | $89       | —             | 72             | 29     | 4      | name.com     |
 | Mikey.ag        | premium   | —         | —             | 70             | 21     | 5      | —            |
 | popup.ag        | available | $89       | —             | 84             | 28     | 6      | name.com     |
 | Henri.ag        | premium   | —         | —             | 66             | 15     | 5      | —            |
@@ -80,10 +80,10 @@ print(df.head())
 | Ispy.ag         | premium   | —         | —             | 76             | 14     | 5      | —            |
 | pages.ag        | available | $89       | —             | 52             | 28     | 5      | name.com     |
 | Cathy.ag        | premium   | —         | —             | 66             | 14     | 5      | —            |
-| backyard.ag     | available | $89       | —             | 80             | 27     | 9      | name.com     |
+| inspiration.ag  | available | $89       | —             | 88             | 27     | 11     | name.com     |
 | BRAS.ag         | premium   | —         | —             | 70             | 13     | 4      | —            |
-| gods.ag         | available | $89       | —             | 72             | 27     | 4      | name.com     |
-| RosettaStone.ag | premium   | —         | —             | 58             | 12     | 13     | —            |
+| backyard.ag     | available | $89       | —             | 80             | 27     | 9      | name.com     |
+| RosettaStone.ag | premium   | —         | —             | 58             | 13     | 13     | —            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
