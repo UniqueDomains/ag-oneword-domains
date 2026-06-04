@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .ag one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,527 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,527 domains · **Median ask:** $142.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,527 domains · **Median ask:** $120.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/ag`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| las.ag          | available | $89       | —             | 48             | 97     | 3      | name.com     |
-| jobs.ag         | resell    | —         | —             | 79             | 42     | 4      | EuroDNS S.A. |
-| Ryan.ag         | premium   | —         | —             | 60             | 44     | 4      | —            |
-| chatbot.ag      | available | $89       | —             | 82             | 40     | 7      | name.com     |
-| partners.ag     | resell    | —         | —             | 61             | 31     | 8      | Dynadot Inc  |
-| Keith.ag        | premium   | —         | —             | 66             | 25     | 5      | —            |
-| lets.ag         | available | $89       | —             | 77             | 39     | 4      | name.com     |
-| Allie.ag        | premium   | —         | —             | 72             | 21     | 5      | —            |
-| gods.ag         | available | $89       | —             | 72             | 29     | 4      | name.com     |
-| Mikey.ag        | premium   | —         | —             | 70             | 21     | 5      | —            |
-| popup.ag        | available | $89       | —             | 84             | 28     | 6      | name.com     |
-| Henri.ag        | premium   | —         | —             | 66             | 15     | 5      | —            |
-| gems.ag         | available | $89       | —             | 70             | 28     | 4      | name.com     |
-| Ispy.ag         | premium   | —         | —             | 76             | 14     | 5      | —            |
-| pages.ag        | available | $89       | —             | 52             | 28     | 5      | name.com     |
-| Cathy.ag        | premium   | —         | —             | 66             | 14     | 5      | —            |
-| inspiration.ag  | available | $89       | —             | 88             | 27     | 11     | name.com     |
-| BRAS.ag         | premium   | —         | —             | 70             | 13     | 4      | —            |
-| backyard.ag     | available | $89       | —             | 80             | 27     | 9      | name.com     |
-| RosettaStone.ag | premium   | —         | —             | 58             | 13     | 13     | —            |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| RedCross.ag     | available | $89       | —             | —              | 99     | 9      | name.com         |
+| sub.ag          | resell    | $89       | —             | 96             | 35     | 3      | Dynadot Inc      |
+| analog.ag       | premium   | —         | —             | 72             | 37     | 6      | —                |
+| CostaRica.ag    | available | $89       | —             | 70             | 98     | 10     | name.com         |
+| test.ag         | resell    | —         | —             | 72             | 90     | 4      | GoDaddy.com, LLC |
+| solution.ag     | premium   | —         | —             | 86             | 27     | 8      | —                |
+| UnitedStates.ag | available | $89       | —             | —              | 96     | 13     | name.com         |
+| bloom.ag        | resell    | —         | —             | 72             | 51     | 5      | Dynadot Inc      |
+| lucent.ag       | premium   | —         | —             | 64             | 26     | 6      | —                |
+| ally.ag         | available | $89       | —             | 68             | 84     | 4      | name.com         |
+| stellar.ag      | resell    | —         | —             | 78             | 49     | 7      | Dynadot Inc      |
+| loco.ag         | premium   | —         | —             | 102            | 24     | 4      | —                |
+| mac.ag          | available | $89       | —             | 94             | 82     | 3      | name.com         |
+| truth.ag        | resell    | —         | —             | 112            | 45     | 5      | Dynadot Inc      |
+| seen.ag         | premium   | —         | —             | 78             | 24     | 4      | —                |
+| checkout.ag     | available | $89       | —             | 68             | 78     | 9      | name.com         |
+| dna.ag          | resell    | —         | —             | 78             | 44     | 3      | humbly, LLC      |
+| original.ag     | premium   | —         | —             | 98             | 23     | 8      | —                |
+| guess.ag        | available | $89       | —             | 100            | 70     | 5      | name.com         |
+| hero.ag         | resell    | —         | —             | 76             | 44     | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
