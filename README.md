@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ag one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,528 domains · **Median ask:** $104.07 · **High-demand under $2,500:** 57
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/ag`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| damn.ag  | available | $89       | $141.99       | high           | low    | 4      | name.com         |
 | Ann.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
 | sub.ag   | resell    | $89       | —             | high           | low    | 3      | Dynadot Inc      |
 | boo.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
@@ -83,7 +84,6 @@ print(df.head())
 | odd.ag   | available | $89       | $141.99       | high           | low    | 3      | name.com         |
 | drift.ag | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC     |
 | tub.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
-| force.ag | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
