@@ -1,10 +1,10 @@
-# Available .AG One-Word Domains (14,177)
+# Available .AG One-Word Domains (22,173)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C177%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C173%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ag one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,177 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,173 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,177 domains · **Median ask:** $102.57 · **High-demand under $2,500:** 60
+**Public extract:** 1,000 rows · **Live catalog:** 22,173 domains · **Median ask:** $102.46 · **High-demand under $2,500:** 102
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/ag`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ala.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
-| sub.ag   | resell    | $89       | —             | high           | low    | 3      | Dynadot Inc      |
-| ann.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
-| note.ag  | resell    | $89       | —             | high           | low    | 4      | Dynadot Inc      |
-| ass.ag   | available | $89       | $141.99       | high           | low    | 3      | name.com         |
-| vegan.ag | resell    | $3,547.58 | —             | high           | medium | 5      | Sav.com, LLC     |
-| ava.ag   | available | $89       | —             | high           | medium | 3      | name.com         |
-| add.ag   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| axe.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
-| bee.ag   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| boo.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
-| dna.ag   | resell    | —         | —             | high           | medium | 3      | humbly, LLC      |
-| cry.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
-| veg.ag   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| cxl.ag   | available | $89       | $141.99       | high           | low    | 3      | name.com         |
-| beam.ag  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
-| cxv.ag   | available | $89       | $141.99       | high           | low    | 3      | name.com         |
-| hero.ag  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| dew.ag   | available | $89       | —             | high           | low    | 3      | name.com         |
-| mega.ag  | resell    | —         | —             | high           | medium | 4      | Variomedia AG    |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ayr.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| coding.ag | resell    | $89       | —             | high           | medium | 6      | Dynadot Inc      |
+| bpi.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| pot.ag    | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.   |
+| ear.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| leap.ag   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| gia.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| slot.ag   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| ike.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| swan.ag   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| jib.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| wolf.ag   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| lie.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| bonus.ag  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| rid.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| queen.ag  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| shy.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| aurora.ag | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| son.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| forest.ag | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,177 live domains                        |
+| 1,000-row public sample | 22,173 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 60 high-demand names under $2,500          |
+| Basic exported fields   | 102 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
