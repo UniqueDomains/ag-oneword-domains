@@ -1,10 +1,10 @@
-# Available .AG One-Word Domains (23,199)
+# Available .AG One-Word Domains (25,336)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C199%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C336%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ag one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,199 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,336 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,199 domains · **Median ask:** $96.78 · **High-demand under $2,500:** 114
+**Public extract:** 1,000 rows · **Live catalog:** 25,336 domains · **Median ask:** $95.80 · **High-demand under $2,500:** 142
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/ag`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ayr.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| acs.ag    | available | $82.50    | $82.50        | high           | high   | 3      | dynadot          |
 | coding.ag | resell    | $89       | —             | high           | low    | 6      | Dynadot Inc      |
-| bpi.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| ayr.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
 | pot.ag    | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.   |
-| ear.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| bpi.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
 | ppp.ag    | resell    | —         | —             | high           | low    | 3      | —                |
-| gia.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| dsm.ag    | available | $89.99    | $79.99        | medium         | low    | 3      | namesilo         |
 | run.ag    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| ike.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| ear.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
 | leap.ag   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| jib.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| gia.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
 | slot.ag   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| lie.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| jib.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
 | swan.ag   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| rid.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
+| koh.ag    | available | $89.99    | $79.99        | medium         | low    | 3      | namesilo         |
 | wolf.ag   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| shy.ag    | available | $77.98    | $77.98        | high           | low    | 3      | porkbun          |
+| lie.ag    | available | $89       | —             | high           | low    | 3      | name.com         |
 | bonus.ag  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| son.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
+| nhs.ag    | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
 | queen.ag  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,199 live domains                        |
+| 1,000-row public sample | 25,336 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 114 high-demand names under $2,500         |
+| Basic exported fields   | 142 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
