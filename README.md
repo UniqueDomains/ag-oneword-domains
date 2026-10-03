@@ -1,10 +1,10 @@
-# Available .AG One-Word Domains (31,443)
+# Available .AG One-Word Domains (33,652)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C443%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C652%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ag one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,443 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,652 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,443 domains · **Median ask:** $94.04 · **High-demand under $2,500:** 216
+**Public extract:** 1,000 rows · **Live catalog:** 33,652 domains · **Median ask:** $93.49 · **High-demand under $2,500:** 230
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/ag`
 **Best for:** founders, investors, studios
 
@@ -68,21 +68,21 @@ print(df.head())
 | coding.ag    | resell    | $89       | —             | high           | low    | 6      | Dynadot Inc       |
 | ayr.ag       | available | $89.99    | $79.99        | high           | low    | 3      | namesilo          |
 | pot.ag       | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.    |
-| bev.ag       | available | $82.50    | $82.50        | high           | low    | 3      | dynadot           |
+| bcl.ag       | available | $89.99    | $79.99        | high           | low    | 3      | namesilo          |
 | run.ag       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| bok.ag       | available | $77.98    | $77.98        | high           | low    | 3      | porkbun           |
+| bev.ag       | available | $82.50    | $82.50        | high           | low    | 3      | dynadot           |
 | leap.ag      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
-| bpi.ag       | available | $89.99    | $79.99        | high           | low    | 3      | namesilo          |
+| bok.ag       | available | $77.98    | $77.98        | high           | low    | 3      | porkbun           |
 | slot.ag      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
-| cfc.ag       | available | $89.99    | $79.99        | high           | high   | 3      | namesilo          |
+| bon.ag       | available | $89.99    | $79.99        | high           | low    | 3      | namesilo          |
 | swan.ag      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| cic.ag       | available | $89.99    | $79.99        | high           | low    | 3      | namesilo          |
+| bpi.ag       | available | $89.99    | $79.99        | high           | low    | 3      | namesilo          |
 | bonus.ag     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
-| dhs.ag       | available | $89.99    | $79.99        | medium         | low    | 3      | namesilo          |
+| cfc.ag       | available | $89.99    | $79.99        | high           | high   | 3      | namesilo          |
 | forest.ag    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC  |
-| dsl.ag       | available | $82.50    | $82.50        | high           | low    | 3      | dynadot           |
+| cic.ag       | available | $89.99    | $79.99        | high           | low    | 3      | namesilo          |
 | master.ag    | resell    | —         | —             | high           | low    | 6      | GrepApps Roy Inc. |
-| dsm.ag       | available | $89.99    | $79.99        | medium         | low    | 3      | namesilo          |
+| dhs.ag       | available | $89.99    | $79.99        | medium         | low    | 3      | namesilo          |
 | strategic.ag | resell    | —         | —             | high           | low    | 9      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,443 live domains                        |
+| 1,000-row public sample | 33,652 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 216 high-demand names under $2,500         |
+| Basic exported fields   | 230 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AG One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AG One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
